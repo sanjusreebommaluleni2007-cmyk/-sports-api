@@ -1,3 +1,9 @@
+// Added for PR testing
+{
+  "name": "sports-api",
+  ...
+}
+
 {
   "dependencies": {
     "express": "^5.2.1",
