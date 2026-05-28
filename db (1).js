@@ -1,3 +1,6 @@
+# Open each file and add a comment at the top
+// Added for PR testing
+
 const mysql = require('mysql2');
 
 const db = mysql.createConnection({
